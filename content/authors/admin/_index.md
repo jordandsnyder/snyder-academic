@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-    - course: Post-Doctoral Fellowship in Psychosocial & Recovery-Oriented Services
+  - course: Post-Doctoral Fellowship in Psychosocial & Recovery-Oriented Services
     institution: San Diego VA Healthcare System/University of California, San Diego (UCSD) (APA-Accredited)
     year: 2019 - 2020
   - course: Psy.D. in Clinical Psychology (APA-Accredited)
