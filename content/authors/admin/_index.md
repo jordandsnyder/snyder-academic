@@ -10,8 +10,8 @@ role: Assistant Professor of Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: Baptist Health Sciences University
-  url: "baptistu.edu/"
+- name: University of Wisconsin Parkside
+  url: "https://www.uwp.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include clinical-community psychology, global mental health, serious mental illness, interventions for mental health in low and middle-income countries, and mental health and social processes related to conflict. 
