@@ -29,6 +29,7 @@ summary: Is Outgroup Prejudice Passed Down Generationally in Rwanda After the
 tags:
 - Rwanda
 - Prejudice
+
 title: Is Outgroup Prejudice Passed Down Generationally in Rwanda After the
 1994 Genocide Against the Tutsi?
 url_pdf: kangetal2021/kangetal2021.pdf
