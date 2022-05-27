@@ -8,7 +8,7 @@ authors:
 - Alissa Charvonia
 - admin
 - Vanessa Camelo Lopez
--  Cynthia Neal Kimball
+- Cynthia Neal Kimball
 date: "2021-09-13T00:00:00Z"
 doi: "10.1037/pac0000578"
 featured: false
